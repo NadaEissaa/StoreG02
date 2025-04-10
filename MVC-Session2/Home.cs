@@ -1,0 +1,12 @@
+﻿//﻿@{
+//    Layout = "_HamadaLayout";
+//}
+
+
+//@*Start Body*@
+//    < center >
+//        < div class= "m-5" >
+//            < h1 > Welcome To About Us Page</h1>
+//        </div>
+//    </center> 
+//    //@*End Body*

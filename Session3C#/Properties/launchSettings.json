@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Session3C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

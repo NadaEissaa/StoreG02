@@ -1,0 +1,15 @@
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\bin\Release\net8.0\Company.G02.BLL.deps.json
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\bin\Release\net8.0\Company.G02.BLL.dll
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\bin\Release\net8.0\Company.G02.BLL.pdb
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\bin\Release\net8.0\Company.G02.DAL.dll
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\bin\Release\net8.0\Company.G02.DAL.pdb
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company.G02.BLL.csproj.AssemblyReference.cache
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company.G02.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company.G02.BLL.AssemblyInfoInputs.cache
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company.G02.BLL.AssemblyInfo.cs
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company.G02.BLL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company..E42C2C8C.Up2Date
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company.G02.BLL.dll
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\refint\Company.G02.BLL.dll
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\Company.G02.BLL.pdb
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.BLL\obj\Release\net8.0\ref\Company.G02.BLL.dll

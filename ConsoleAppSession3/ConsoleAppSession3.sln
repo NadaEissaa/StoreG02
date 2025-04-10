@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSession3", "ConsoleAppSession3.csproj", "{7A48854B-C30D-4E31-A49D-1F2AA782CA9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignment3Solution", "..\assignment3Solution\assignment3Solution.csproj", "{450580A3-F5BF-41A7-9A6B-0FC0C413F223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A48854B-C30D-4E31-A49D-1F2AA782CA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A48854B-C30D-4E31-A49D-1F2AA782CA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A48854B-C30D-4E31-A49D-1F2AA782CA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A48854B-C30D-4E31-A49D-1F2AA782CA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450580A3-F5BF-41A7-9A6B-0FC0C413F223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450580A3-F5BF-41A7-9A6B-0FC0C413F223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450580A3-F5BF-41A7-9A6B-0FC0C413F223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450580A3-F5BF-41A7-9A6B-0FC0C413F223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
