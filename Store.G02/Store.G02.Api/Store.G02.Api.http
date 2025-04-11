@@ -1,6 +1,0 @@
-@Store.G02.Api_HostAddress = http://localhost:5098
-
-GET {{Store.G02.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
