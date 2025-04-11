@@ -14,7 +14,7 @@ namespace Company.G02.PL.Helpers
             {
                 var client = new SmtpClient("smtp.gmail.com", 587);
                 client.EnableSsl = true;
-                client.Credentials = new NetworkCredential("", ""); //Sender
+                client.Credentials = new NetworkCredential("\"nadaeissa13@gmail.com\"", "paqzvxrthhyzefsw"); //Sender
                 client.Send("", email.To, email.Subject, email.Body);
                 return true;
             }

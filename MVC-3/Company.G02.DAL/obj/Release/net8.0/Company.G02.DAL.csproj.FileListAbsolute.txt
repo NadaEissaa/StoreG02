@@ -1,0 +1,14 @@
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\bin\Release\net8.0\Company.G02.DAL.deps.json
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\bin\Release\net8.0\Company.G02.DAL.runtimeconfig.json
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\bin\Release\net8.0\Company.G02.DAL.dll
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\bin\Release\net8.0\Company.G02.DAL.pdb
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.csproj.AssemblyReference.cache
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.AssemblyInfoInputs.cache
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.AssemblyInfo.cs
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.dll
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\refint\Company.G02.DAL.dll
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.pdb
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\Company.G02.DAL.genruntimeconfig.cache
+C:\Users\owner\Source\Repos\MVC-3\Company.G02.DAL\obj\Release\net8.0\ref\Company.G02.DAL.dll
